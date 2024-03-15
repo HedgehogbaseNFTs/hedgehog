@@ -1,0 +1,30 @@
+{
+  "name": "HedgeHog #2471",
+  "description": "5555 hedgehogbase enabled by a customized version of Erc404, an experimental token standard that enables persistent liquidity and semi-fungibility.",
+  "image": "https://raw.githubusercontent.com/HedgehogbaseNFTs/hedgehog/main/build/images/2471.png",
+  "dna": "430db6510c3fbd69f2eb7da2a62a8f636cb67044",
+  "edition": 2471,
+  "date": 1710414524731,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blond"
+    },
+    {
+      "trait_type": "body",
+      "value": "black"
+    },
+    {
+      "trait_type": "cloth",
+      "value": "jersey 1"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "black glasses"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "tape"
+    }
+  ]
+}
